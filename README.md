@@ -1,2 +1,2 @@
 # TidbitsAndWhimsies
-Hosting for TidbitsAndWhimsies.com
+Assets for TidbitsAndWhimsies.com
